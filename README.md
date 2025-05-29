@@ -62,4 +62,16 @@ Instantly view the current weather details for that location
 🚀 Live Demo
 
 🔗 Visit Live Website
+https://github.com/AATHISHREE/API-INTEGRATION.git
+
+📁 Project Structure
+
+WeatherApp/
+
+├── index.html       → main webpage
+
+├── style.css        → styling and responsiveness
+
+└── script.js        → JavaScript logic and API integration
+
 
